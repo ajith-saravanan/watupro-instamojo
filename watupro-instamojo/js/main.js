@@ -1,0 +1,1 @@
+/* Add your custom Javascript if any here. Don't forget to include it in watuprocustom_init() by using the wp_enqueue_script call. */
